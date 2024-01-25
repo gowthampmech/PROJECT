@@ -389,24 +389,32 @@ margin-left: 100px;
 }
 .ka{
   background-color: black;
+ 
+  
 }
 .ma{
 padding-left: 800px;
 color: white;
 }
-.ha{
-  padding-left: 800px;
-  color: white;
-}
-.aa{
-  padding-left: 800px;
-}
-.ra{
-  padding-left: 100px;
-}
 .mm{
   padding-left: 25px;
+  
 }
+.fw{
+  color: white;
+  
+  padding-left: 800px;
+  display: inline;
+}
+.aw{
+  color: white;
+  padding-left: 800px;
+  
+}
+.by{
+  margin-left: 100px;
+}
+
 
 
   
